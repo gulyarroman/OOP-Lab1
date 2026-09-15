@@ -1,0 +1,15 @@
+D:\University\2k\ООП\HuliarL1\WinFormsApp\bin\Debug\net10.0-windows\WinFormsApp.exe
+D:\University\2k\ООП\HuliarL1\WinFormsApp\bin\Debug\net10.0-windows\WinFormsApp.deps.json
+D:\University\2k\ООП\HuliarL1\WinFormsApp\bin\Debug\net10.0-windows\WinFormsApp.runtimeconfig.json
+D:\University\2k\ООП\HuliarL1\WinFormsApp\bin\Debug\net10.0-windows\WinFormsApp.dll
+D:\University\2k\ООП\HuliarL1\WinFormsApp\bin\Debug\net10.0-windows\WinFormsApp.pdb
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\WinFormsApp.sourcelink.json
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\WinFormsApp.dll
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\refint\WinFormsApp.dll
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\WinFormsApp.pdb
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\University\2k\ООП\HuliarL1\WinFormsApp\obj\Debug\net10.0-windows\ref\WinFormsApp.dll
